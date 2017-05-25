@@ -57,7 +57,7 @@ When you are finished with lab, follow these steps to submit your work. Create o
  - Ensure your code passes ESLint
  - DO NOT create your Heroku app with a default name. If you do accidentally, rename it. Or blow it away, and start again.
  - Link to your live site in your README, for whichever repo you deploy.
-
+https://rylee-blog-app.herokuapp.com/
 #### Stretch Goals  
 
  1. As a site owner, I want [blog.my-own-domain-name.io] hooked up to my Heroku app, so that I don't have to explain to people how to spell "myblog.herokuapp.com" over the phone.
